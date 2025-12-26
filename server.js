@@ -1717,6 +1717,6 @@ wss.on("connection", (ws, req) => {
 });
 
 // Start server
-server.listen(8080, () => {
+server.listen(process.env.PORT, () => {
   console.log("HTTP + WS server running on http://localhost:8080");
 });
