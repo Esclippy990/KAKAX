@@ -1,0 +1,1 @@
+exports.messages = ["{\"type\":\"html\",\"data\":\"<font color=\\\"red\\\"><b>Messages before these were deleted due to storage limitations.</b></font>\"}","{\"type\":\"broadcast\",\"data\":\"[b]k'[/b] has joined the chat!\"}"]
